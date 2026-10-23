@@ -2,6 +2,7 @@
 
 Delete At Date is a Windows utility that schedules individual files for automatic removal on a date you choose.
 
+
 **Professional File Deletion & Shredding Utility**
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue)](../../releases)
