@@ -1,0 +1,27 @@
+END-USER LICENSE AGREEMENT (EULA) for Delete At Date
+
+This End-User License Agreement ("EULA") is a legal agreement between you and Gremsoft ("the Developer") for the software product "Delete At Date".
+
+1. GRANT OF LICENSE
+"Delete At Date" is distributed as Freeware. It is provided free of charge for both personal and commercial use: there is no purchase price, license key, subscription, registration or trial period.
+The Developer grants you a personal, non-exclusive, non-transferable license to install and use "Delete At Date" for personal or commercial purposes on your computers.
+
+2. COPYRIGHT
+Copyright (C) 2026 Gremsoft. All rights reserved.
+
+3. RESTRICTIONS
+- You shall not decompile, reverse engineer, or disassemble the software.
+- You shall not modify the software or create derivative works based upon the software.
+- Redistribution of the software is permitted only via the original, unmodified installer provided by Gremsoft.
+
+4. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE DEVELOPER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+5. LIMITATION OF LIABILITY
+BY INSTALLING THIS SOFTWARE, YOU ACKNOWLEDGE THAT IT IS DESIGNED TO DELETE FILES. THE DEVELOPER SHALL NOT BE LIABLE FOR ANY DATA LOSS, HARDWARE DAMAGE, OR OTHER LOSS RESULTING FROM THE USE OR MISUSE OF THIS SOFTWARE. YOU ARE RESPONSIBLE FOR ENSURING THAT IMPORTANT FILES ARE BACKED UP AND NOT SCHEDULED FOR DELETION BY MISTAKE. THE "SECURE SHREDDING" FEATURE PERMANENTLY ERASES DATA AND IS IRREVERSIBLE.
+
+6. TERMINATION
+This license is effective until terminated. You may terminate it at any time by uninstalling the software and deleting all copies. The Developer may terminate this license if you fail to comply with any term or condition of this EULA.
+
+7. ACCEPTANCE
+By clicking "I accept the agreement" or by installing/using the software, you agree to be bound by the terms of this EULA.
